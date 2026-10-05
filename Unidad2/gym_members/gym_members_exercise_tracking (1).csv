@@ -1,4 +1,4 @@
-age,gender,weight_kg,height_m,max_bpm,avg_bpm,resting_bpm,session_duration,calories_burned,workout_type,fat_percentage,water_intake,workout_frequency,experience_level,bmi
+age,gender,weight_kg,height_m,max_bpm,avg_bpm,resting_bpm,session_duration_hours,calories_burned_hours,workout_type,fat_percentage,water_intake,workout_frequency,experience_level,bmi
 56,Male,88.3,1.71,180,157,60,1.69,1313.0,Yoga,12.6,3.5,4,3,30.2
 46,Female,74.9,1.53,179,151,66,1.3,883.0,HIIT,33.9,2.1,4,2,32.0
 32,Female,68.1,1.66,167,122,54,1.11,677.0,Cardio,33.4,2.3,4,2,24.71
